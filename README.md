@@ -8,6 +8,7 @@ A first year student's guide to software development and other useful info. Feel
     - [Bash](#bash)
 
 - [Linux or Windows?](#linux_or_windows)
+- [Version Control](#version_control)
 
 
 Programming Languages
@@ -24,6 +25,12 @@ Programming Languages
 
 * [Lynda](https://www.lynda.com/Python-tutorials/Python-3-Essential-Training/62226-2.html) - Getting started with Python 3
 
+
+### JavaScript
+
+* [udemy](https://www.udemy.com/understand-javascript/) - One of the very few tutorials that teaches Javascript the right way.
+
+
 ### Bash
 
 * [Youtube](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790) - An awesome video series on getting started with shell scripting.
@@ -31,3 +38,7 @@ Programming Languages
 ## Linux Or Windows?
 
 * [Quora](https://www.quora.com/Why-is-Linux-better-than-Windows-for-programmers-1/answer/Kemal-Ard%C4%B1l-G%C3%BClez?srid=iFph)
+
+## Version Control
+
+* [Git](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) - Git is one of the most popular version control softwares.
