@@ -1,15 +1,17 @@
 # To Be Ninja
 
-A first year student's guide to software development and other useful info. Feel free to send pull requests for adding new info.
+A first year student's guide to programming and software development. 
+Feel free to send pull requests for adding new info.
 
-- [Programming Languages]()
-    - [C/C++](#c-c++)
+- [Programming Languages](#programming-languages)
+    - [C/C++](#cc)
     - [Python](#python)
     - [JavaScript](#javascript)
     - [Bash](#bash)
 
-- [Linux or Windows?](#linux_or_windows)
-- [Version Control](#version_control)
+- [Linux or Windows?](#linux-or-windows)
+- [Version Control](#version-control)
+- [FAQs](#faqs)
 
 
 Programming Languages
@@ -43,3 +45,15 @@ Programming Languages
 ## Version Control
 
 * [Git](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) - Git is one of the most popular version control softwares.
+
+
+##FAQs
+
+### Which language should I learn first?
+You can start with any one of the above languages(C/C++, Java, JavaScript, Python). Learn the basic syntax, some basic data structures like an array and linked list, and make some small programs like Fibonacci series, factorial etc.
+Just start somewhere, don't just keep looking for the best language. Learning a second language will not be difficult.
+
+
+
+### I haven't studied computer science in my 11th and 12th. Do I have any disadvantage?
+Think of it as a marathon, it's not a sprint. Initially, of course, you have a disadvantage but in the long run, you can defeat others by your consistency. Just start somewhere and work hard.
