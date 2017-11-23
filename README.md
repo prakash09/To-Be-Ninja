@@ -5,6 +5,7 @@ A first year student's guide to software development and other useful info. Feel
 - [Programming Languages]()
     - [C/C++](#c-c++)
     - [Python](#python)
+    - [JavaScript](#javascript)
     - [Bash](#bash)
 
 - [Linux or Windows?](#linux_or_windows)
