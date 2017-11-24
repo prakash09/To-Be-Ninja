@@ -39,8 +39,13 @@ Programming Languages
 * [Youtube](https://www.youtube.com/watch?v=nVt3Rst-2H8&list=PL7B7FA4E693D8E790) - An awesome video series on getting started with shell scripting.
 
 ## Linux Or Windows?
-
-* [Quora](https://www.quora.com/Why-is-Linux-better-than-Windows-for-programmers-1/answer/Kemal-Ard%C4%B1l-G%C3%BClez?srid=iFph)
+* There is no such thing as one is better than the other. 
+* If you are working on C#/.NET and building apps for the windows platform then definitely working on windows is better. 
+* Default shell in both Linux and Mac uses [Bash](#bash) for scripting.
+* Most of the Linux flavours are free and have great community support.
+* In Linux, you don't need an anti-virus.
+* In windows there are GUI tools available to perform most of the tasks(eg: git push/pull, ssh), so mostly you will not be working in cmd/terminal and also automating a GUI tool is not possible.
+* In Linux you don't need GUI tools to perform tasks like ssh, ftp etc.
 
 ## Version Control
 
@@ -57,3 +62,6 @@ Just start somewhere, don't just keep looking for the best language. Learning a 
 
 ### I haven't studied computer science in my 11th and 12th. Do I have any disadvantage?
 Think of it as a marathon, it's not a sprint. Initially, of course, you have a disadvantage but in the long run, you can defeat others by your consistency. Just start somewhere and work hard.
+
+
+### 
