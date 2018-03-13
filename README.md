@@ -22,6 +22,7 @@ Programming Languages
 
 * [My Code School](https://www.youtube.com/watch?v=AWliApDc61w&list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE) - One of the best tutorials to start programming in C. 
 * [Books]() - Coming soon!
+* [Getting Started With Sport Of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html) - The best set and step by step guide of competitive programming. 
 
 
 ### Python
